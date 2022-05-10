@@ -13,7 +13,7 @@ const Footer = ({ fullWidth }) => {
       <div className="my-4 text-sm leading-6">
         <div className="flex align-baseline justify-between flex-wrap">
           <p>
-            ©{from === y || !from ? y : `${from} - ${y}`} <a href="https://t.me/ygxgj" target="_blank">{BLOG.author}</a>
+            ©{from === y || !from ? y : `${from} - ${y}`} <a href="https://t.me/ygxgj" target="_blank" rel="noreferrer">{BLOG.author}</a>
           </p>
         </div>
       </div>
