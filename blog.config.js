@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: '', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image.vercel.app/YGXLJ', // The link to generate OG image, don't end with a slash
   socialLink: 'https://t.me/ygxgj',
   seo: {
     keywords: ['Blog', 'Apple','iTunes Gift Card', 'Notion'],
